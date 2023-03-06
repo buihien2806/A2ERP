@@ -1,0 +1,12 @@
+D:\Hien Project\A2ERP\A2ERP.Repository\bin\Debug\net6.0\A2ERP.Repository.deps.json
+D:\Hien Project\A2ERP\A2ERP.Repository\bin\Debug\net6.0\A2ERP.Repository.dll
+D:\Hien Project\A2ERP\A2ERP.Repository\bin\Debug\net6.0\A2ERP.Repository.pdb
+D:\Hien Project\A2ERP\A2ERP.Repository\obj\Debug\net6.0\A2ERP.Repository.csproj.AssemblyReference.cache
+D:\Hien Project\A2ERP\A2ERP.Repository\obj\Debug\net6.0\A2ERP.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hien Project\A2ERP\A2ERP.Repository\obj\Debug\net6.0\A2ERP.Repository.AssemblyInfoInputs.cache
+D:\Hien Project\A2ERP\A2ERP.Repository\obj\Debug\net6.0\A2ERP.Repository.AssemblyInfo.cs
+D:\Hien Project\A2ERP\A2ERP.Repository\obj\Debug\net6.0\A2ERP.Repository.csproj.CoreCompileInputs.cache
+D:\Hien Project\A2ERP\A2ERP.Repository\obj\Debug\net6.0\A2ERP.Repository.dll
+D:\Hien Project\A2ERP\A2ERP.Repository\obj\Debug\net6.0\refint\A2ERP.Repository.dll
+D:\Hien Project\A2ERP\A2ERP.Repository\obj\Debug\net6.0\A2ERP.Repository.pdb
+D:\Hien Project\A2ERP\A2ERP.Repository\obj\Debug\net6.0\ref\A2ERP.Repository.dll
