@@ -1,6 +1,8 @@
 using A2ERP.Data;
+using A2ERP.Data.EF;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +10,11 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
+
+//CONNECT TO SQL SERVER
+builder.Services.AddDbContext<MainContext>(option =>
+option.UseSqlServer(builder.Configuration.GetConnectionString("MainDBDatabase")));
+builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
