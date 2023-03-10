@@ -1,0 +1,33 @@
+﻿@page "/tasks/tasklist"
+
+<h1>Task List</h1>
+@if (taskViewRequests == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Priority</th>
+                <th>Assignee</th>
+                <th>Date</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in taskViewRequests)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Priority</td>
+                    <td>@item.Name</td>
+                    <td>@item.CreatedDate.ToString("dd/MM/yyyy hh:mm")</td>
+                    <td>@item.Status</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

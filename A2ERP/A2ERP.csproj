@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\A2ERP.Data\A2ERP.Data.csproj" />
+    <ProjectReference Include="..\A2ERP.Repository\A2ERP.Repository.csproj" />
   </ItemGroup>
 
 </Project>

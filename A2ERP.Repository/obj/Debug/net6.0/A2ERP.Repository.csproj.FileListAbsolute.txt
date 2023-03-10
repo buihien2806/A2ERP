@@ -10,3 +10,8 @@ D:\Hien Project\A2ERP\A2ERP.Repository\obj\Debug\net6.0\A2ERP.Repository.dll
 D:\Hien Project\A2ERP\A2ERP.Repository\obj\Debug\net6.0\refint\A2ERP.Repository.dll
 D:\Hien Project\A2ERP\A2ERP.Repository\obj\Debug\net6.0\A2ERP.Repository.pdb
 D:\Hien Project\A2ERP\A2ERP.Repository\obj\Debug\net6.0\ref\A2ERP.Repository.dll
+D:\Hien Project\A2ERP\A2ERP.Repository\bin\Debug\net6.0\A2ERP.Data.dll
+D:\Hien Project\A2ERP\A2ERP.Repository\bin\Debug\net6.0\A2ERP.Models.dll
+D:\Hien Project\A2ERP\A2ERP.Repository\bin\Debug\net6.0\A2ERP.Models.pdb
+D:\Hien Project\A2ERP\A2ERP.Repository\bin\Debug\net6.0\A2ERP.Data.pdb
+D:\Hien Project\A2ERP\A2ERP.Repository\obj\Debug\net6.0\A2ERP.Repository.csproj.CopyComplete
