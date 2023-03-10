@@ -1,5 +1,7 @@
 using A2ERP.Data;
 using A2ERP.Data.EF;
+using A2ERP.Repository.Interfaces;
+using A2ERP.Repository.Services;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.EntityFrameworkCore;
@@ -9,7 +11,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
-builder.Services.AddSingleton<WeatherForecastService>();
+//DECLARE DI
+builder.Services.AddTransient<ITaskRepository, TaskRepository>();
 
 //CONNECT TO SQL SERVER
 builder.Services.AddDbContext<MainContext>(option =>
@@ -34,5 +37,5 @@ app.UseRouting();
 
 app.MapBlazorHub();
 app.MapFallbackToPage("/_Host");
-
+ 
 app.Run();

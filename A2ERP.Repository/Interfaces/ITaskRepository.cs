@@ -9,7 +9,7 @@ namespace A2ERP.Repository.Interfaces
 {
     public interface ITaskRepository
     {
-        Task<IEnumerable<TaskViewRequest>> GetAllTasks();
+        Task<List<TaskViewRequest>> GetAllTasks();
         Task<TaskViewRequest?> GetById(Guid id);
         Task<bool> Create(TaskCreateRequest request);
         Task<bool> Update(TaskUpdateRequest request);

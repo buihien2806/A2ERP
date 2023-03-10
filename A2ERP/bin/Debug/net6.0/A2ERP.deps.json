@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "A2ERP/1.0.0": {
         "dependencies": {
-          "A2ERP.Data": "1.0.0"
+          "A2ERP.Data": "1.0.0",
+          "A2ERP.Repository": "1.0.0"
         },
         "runtime": {
           "A2ERP.dll": {}
@@ -535,6 +536,22 @@
         "runtime": {
           "A2ERP.Data.dll": {}
         }
+      },
+      "A2ERP.Models/1.0.0": {
+        "dependencies": {
+          "A2ERP.Data": "1.0.0"
+        },
+        "runtime": {
+          "A2ERP.Models.dll": {}
+        }
+      },
+      "A2ERP.Repository/1.0.0": {
+        "dependencies": {
+          "A2ERP.Models": "1.0.0"
+        },
+        "runtime": {
+          "A2ERP.Repository.dll": {}
+        }
       }
     }
   },
@@ -916,6 +933,16 @@
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
     },
     "A2ERP.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "A2ERP.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "A2ERP.Repository/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
