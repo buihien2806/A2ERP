@@ -1,0 +1,14 @@
+D:\Hien Project\A2ERP\A2ERP.Data\obj\Debug\net6.0\A2ERP.Data.csproj.AssemblyReference.cache
+D:\Hien Project\A2ERP\A2ERP.Data\obj\Debug\net6.0\A2ERP.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hien Project\A2ERP\A2ERP.Data\obj\Debug\net6.0\A2ERP.Data.AssemblyInfoInputs.cache
+D:\Hien Project\A2ERP\A2ERP.Data\obj\Debug\net6.0\A2ERP.Data.AssemblyInfo.cs
+D:\Hien Project\A2ERP\A2ERP.Data\obj\Debug\net6.0\A2ERP.Data.csproj.CoreCompileInputs.cache
+D:\Hien Project\A2ERP\A2ERP.Data\bin\Debug\net6.0\A2ERP.Data.deps.json
+D:\Hien Project\A2ERP\A2ERP.Data\bin\Debug\net6.0\A2ERP.Data.runtimeconfig.json
+D:\Hien Project\A2ERP\A2ERP.Data\bin\Debug\net6.0\A2ERP.Data.dll
+D:\Hien Project\A2ERP\A2ERP.Data\bin\Debug\net6.0\A2ERP.Data.pdb
+D:\Hien Project\A2ERP\A2ERP.Data\obj\Debug\net6.0\A2ERP.Data.dll
+D:\Hien Project\A2ERP\A2ERP.Data\obj\Debug\net6.0\refint\A2ERP.Data.dll
+D:\Hien Project\A2ERP\A2ERP.Data\obj\Debug\net6.0\A2ERP.Data.pdb
+D:\Hien Project\A2ERP\A2ERP.Data\obj\Debug\net6.0\A2ERP.Data.genruntimeconfig.cache
+D:\Hien Project\A2ERP\A2ERP.Data\obj\Debug\net6.0\ref\A2ERP.Data.dll
